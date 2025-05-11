@@ -56,4 +56,4 @@ else:
         writer.writeheader()
         writer.writerows(all_hits)
 
-    print("\n✅ Results saved to 'crispr_hits.csv'")
+    print("\n Results saved to 'crispr_hits.csv'")
